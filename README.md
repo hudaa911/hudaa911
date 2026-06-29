@@ -19,7 +19,7 @@ I'm passionate about solving real-world problems through technology. Rather than
 
 ## 🚀 Current Focus
 
-I'm currently building **CampusFlow**, a student productivity platform designed to bring assignments, attendance, notes, academic events, and semester planning into one place.
+I'm currently building **echo**, a digital second brain ,  links your ideas, notes, and inspirations into a living knowledge network — not just a folder full of files.
 
 This project is helping me strengthen my skills in:
 - Requirements Gathering
